@@ -1,0 +1,12 @@
+title: "My Personal Website"
+description: "Welcome to my website and blog."
+author: "Bob the Builder"
+
+url: "https://tamkeen-cloud-engineering.github.io"
+baseurl: "/personal-website"
+
+theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
