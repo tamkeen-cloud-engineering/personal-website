@@ -6,7 +6,7 @@ author: "Bob the Builder"
 url: "https://tamkeen-cloud-engineering.github.io/"
 baseurl: "/personal-website"
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
