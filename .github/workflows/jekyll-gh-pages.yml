@@ -30,6 +30,7 @@ jobs:
       - name: Markdown lint
         uses: DavidAnson/markdownlint-cli2-action@v23
         with:
+          config: .markdownlint-cli2.jsonc
           globs: '**/*.md'
       - name: YAML lint
         uses: ibiqlik/action-yamllint@v3
